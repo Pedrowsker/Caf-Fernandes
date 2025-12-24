@@ -116,6 +116,7 @@ section h2 {
 }
 
 .price {
+  max-width: 100px;
   font-weight: bold;
   color: var(--orange-main);
 }
