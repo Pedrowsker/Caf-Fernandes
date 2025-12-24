@@ -110,13 +110,13 @@ section h2 {
 }
 
 .item p {
-  max-width: 280px;
+  max-width: 260px;
   font-size: 13px;
   color: #666;
 }
 
 .price {
-  max-width: 100px;
+  max-width: 300px;
   font-weight: bold;
   color: var(--orange-main);
 }
